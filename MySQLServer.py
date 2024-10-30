@@ -17,4 +17,4 @@ def create_database():
             print("Database 'alx_book_store' created successfully!")
 
     except mysql.connector.Error as err:  # Updated to meet the task requirement
-        print(f"Error while connecting to My
+        
